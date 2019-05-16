@@ -1,5 +1,9 @@
-Brightpearl PHP API WRAPPER
-==============================================
+#Brightpearl PHP API WRAPPER
+
+<a href="https://travis-ci.org/developifynet/brightpearl-php"><img src="https://travis-ci.org/developifynet/brightpearl-php.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/developifynet/brightpearl-php"><img src="https://poser.pugx.org/developifynet/brightpearl-php/downloads.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/developifynet/brightpearl-php"><img src="https://poser.pugx.org/developifynet/brightpearl-php/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/developifynet/brightpearl-php"><img src="https://poser.pugx.org/developifynet/brightpearl-php/license.svg" alt="License"></a>
 
 This package uses arrays for the same json requests as you would send to the Brightpearl API. Please refer to the [Brightpearl API docs](http://api-docs.brightpearl.com/) for extra/optional field info.
 
