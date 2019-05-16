@@ -325,7 +325,7 @@ class BrightpearlClient
             $this->_account_code = $settings['account_code'];
         }
 
-        if(isset($settings['account_code']) && $settings['api_domain']) {
+        if(isset($settings['api_domain']) && $settings['api_domain']) {
             $this->_brightpearl_url = $settings['api_domain'];
         }
 
